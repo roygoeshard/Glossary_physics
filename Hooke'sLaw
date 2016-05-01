@@ -1,0 +1,4 @@
+\newglossaryentry{hooke's law}
+{
+name=Hooke's law,
+    description={Hooke’s Law: [F=-k*x] is a principle of physics that states that the  that the force needed to extend or compress a spring by some distance is proportional to that distance.}
