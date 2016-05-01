@@ -1,0 +1,4 @@
+\newglossaryentry{tension}
+{
+name=Tension,
+description={The tension force is the force that is transmitted through a string, rope, cable or wire when it is pulled tight by forces acting from opposite ends. The tension force is directed along the length of the wire and pulls equally on the objects on the opposite ends of the wire. The tension on an object is equal to the mass of the object x gravitational force plus/minus the mass x acceleration.}
